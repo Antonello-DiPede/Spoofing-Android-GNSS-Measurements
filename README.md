@@ -34,4 +34,4 @@ Data were processed in **MATLAB** to analyze pseudoranges, Doppler rates, C/N₀
 
 ---
 
-**Author:** Antonello Di Pede – GNSS Lab, Politecnico di Torino (2025)
+**Author:** Antonello Di Pede, Giuseppe Insalaco, Gioele Fontanini, Luca Chiarelli
